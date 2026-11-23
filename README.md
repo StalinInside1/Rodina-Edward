@@ -1,3 +1,5 @@
 # Rodina-Edward
 
-Лаунчер Rodina. Последняя версия лежит в разделе Releases.
+Лаунчер Rodina. Последняя версия лежит в разделе Tags.
+Автор:By Edward
+Редактор:By Stalin
